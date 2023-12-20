@@ -3,5 +3,9 @@ function logName (name) {
 }
 
 function anotherFunction() {
-    
+    const status = true;
+
+    if (status) {
+        console.log("sup");
+    }
 }
