@@ -6,6 +6,6 @@ function anotherFunction() {
     const status = true;
 
     if (status) {
-        console.log("sup");
+        console.log("hey there!");
     }
 }
