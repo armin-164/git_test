@@ -7,5 +7,6 @@ function anotherFunction() {
 
     if (status) {
         console.log("hey there!");
+        console.log("this is a log");
     }
 }
